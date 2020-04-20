@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coronavirus_dashboard", "Coronavirus_dashboard\Coronavirus_dashboard.csproj", "{3A0B61C2-2BE0-474F-81EC-4C9E46C16FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coronavirus_dashboard.Tests", "Coronavirus_dashboard.Tests\Coronavirus_dashboard.Tests.csproj", "{655CE4A2-F10D-4ED8-8769-4F0AD7534FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0B61C2-2BE0-474F-81EC-4C9E46C16FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0B61C2-2BE0-474F-81EC-4C9E46C16FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0B61C2-2BE0-474F-81EC-4C9E46C16FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0B61C2-2BE0-474F-81EC-4C9E46C16FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{655CE4A2-F10D-4ED8-8769-4F0AD7534FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655CE4A2-F10D-4ED8-8769-4F0AD7534FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655CE4A2-F10D-4ED8-8769-4F0AD7534FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655CE4A2-F10D-4ED8-8769-4F0AD7534FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7691560-0849-49E5-AFB8-C493101D06D2}
+	EndGlobalSection
+EndGlobal
