@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3A0B61C2-2BE0-474F-81EC-4C9E46C16FDA}|">
+  <MonoDevelop.Ide.ItemProperties.Coronavirus__dashboard PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Coronavirus_dashboard" expanded="True">
+            <Node name="Coronavirus_dashboard" expanded="True">
+              <Node name="App_Data" expanded="True" />
+              <Node name="App_Start" expanded="True">
+                <Node name="RouteConfig.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True">
+                <Node name="Model1.edmx" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
